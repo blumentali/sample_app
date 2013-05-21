@@ -25,7 +25,7 @@
     </libraries>
     <schema name="" catalog=""/>
   </data-source>
-  <data-source source="LOCAL" name="Rails sample_app: cucumber" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="bb1acb4f-8a71-4b24-b827-03d2d6c8dca4">
+  <data-source source="LOCAL" name="Rails sample_app: cucumber" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="192c1e8c-b1ac-483e-8704-95a36c522016">
     <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
     <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
     <libraries>
